@@ -16,7 +16,7 @@ Tenho trabalhado principalmente com sistemas internos e automações voltadas a 
 
 O trabalho que venho executando nasceu de problemas reais de ambientes operacionais, processos manuais, informações espalhadas entre sistemas, tarefas repetitivas e fluxos que dependiam demais de intervenção humana.
 
-Trabalho transformando isso em software.Primeiro entendo o processo, organizo as regras e contratos que realmente importam e depois implementar uma solução com Python, Django, SQL ou integrações com APIs dependendo do problema .
+Trabalho transformando isso em software. Primeiro entendo o processo, organizo as regras e contratos que realmente importam e depois implementar uma solução com Python, Django, SQL ou integrações com APIs dependendo do problema .
 
 Tenho interesse principalmente em backend, sistemas internos, integrações e automação. É também onde venho concentrando meus estudos e projetos.
 
